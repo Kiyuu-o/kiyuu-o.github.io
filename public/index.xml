@@ -1,19 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>programming blog of kmiao</title>
+    <title>Kexuan Miao (缪可轩)</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on programming blog of kmiao</description>
-    <generator>Hugo</generator>
+    <description>Recent content on Kexuan Miao (缪可轩)</description>
+    <generator>Hugo -- 0.136.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Oct 2024 18:33:14 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 13:07:33 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Thu, 17 Oct 2024 18:33:14 -0600</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is a &lt;strong&gt;testing&lt;/strong&gt; blog.&lt;/p&gt;</description>
+      <title>能力提升综合题单Part6_数学2</title>
+      <link>http://localhost:1313/posts/%E8%83%BD%E5%8A%9B%E6%8F%90%E5%8D%87%E7%BB%BC%E5%90%88%E9%A2%98%E5%8D%95part6_%E6%95%B0%E5%AD%A62/</link>
+      <pubDate>Tue, 22 Oct 2024 13:07:33 -0600</pubDate>
+      <guid>http://localhost:1313/posts/%E8%83%BD%E5%8A%9B%E6%8F%90%E5%8D%87%E7%BB%BC%E5%90%88%E9%A2%98%E5%8D%95part6_%E6%95%B0%E5%AD%A62/</guid>
+      <description>&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;
+&lt;p&gt;洛谷题单上看到的，看起来很不错，能帮助我解决一些概率和期望方面的弱点，所以还是做做看。每一题的题解还是写一个单独的 blog，然后下面只是用来看整体完成度的。每个小部分之后会有一个简短的总结&lt;/p&gt;
+&lt;h3 id=&#34;part-65-概率与期望&#34;&gt;Part 6.5 概率与期望&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;概率和期望是紧密相连的，OI 中往往会出现和概率期望相关的动态规划问题。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://www.luogu.com.cn/problem/P5104&#34;&gt;P5104 红包发红包&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://www.luogu.com.cn/problem/P1850&#34;&gt;P1850 换教室&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://www.luogu.com.cn/problem/P3830&#34;&gt;P3830 [SHOI2012]随机树&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://www.luogu.com.cn/problem/P4564&#34;&gt;P4564 [CTSC2018]假面&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://www.luogu.com.cn/problem/P2473&#34;&gt;P2473 [SCOI2008]奖励关&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://www.luogu.com.cn/problem/P2221&#34;&gt;P2221 [HAOI2012]高速公路&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://www.luogu.com.cn/problem/P3239&#34;&gt;P3239 [HNOI2015]亚瑟王&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://www.luogu.com.cn/problem/P3750&#34;&gt;P3750 [六省联考 2017]分手是祝愿&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://www.luogu.com.cn/problem/P4284&#34;&gt;P4284 [SHOI2014]概率充电器&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://www.luogu.com.cn/problem/P5249&#34;&gt;P5249 [LnOI2019]加特林轮盘赌&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://www.luogu.com.cn/problem/P2081&#34;&gt;P2081 [NOI2012]迷失游乐园&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://www.luogu.com.cn/problem/P3343&#34;&gt;P3343 [ZJOI2015]地震后的幻想乡&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://www.luogu.com.cn/problem/P3600&#34;&gt;P3600 随机数生成器&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://www.luogu.com.cn/problem/P5326&#34;&gt;P5326 [ZJOI2019]开关&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Alberta Collegiate Programming Contest 2024</title>
+      <link>http://localhost:1313/posts/acpc2024/</link>
+      <pubDate>Tue, 22 Oct 2024 13:03:12 -0600</pubDate>
+      <guid>http://localhost:1313/posts/acpc2024/</guid>
+      <description>&lt;h2 id=&#34;intorduction&#34;&gt;Intorduction&lt;/h2&gt;
+&lt;p&gt;Local contest in Alberta held by University of Calgary programming club. The difficulty should be somewhat easier than most North America Regionals.
+&lt;a href=&#34;https://cpc.cpsc.ucalgary.ca/contests/acpc/2024/&#34;&gt;Info Page&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;editorial&#34;&gt;Editorial&lt;/h2&gt;
+&lt;p&gt;Will be done after Contest.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
