@@ -17,7 +17,7 @@
 &lt;p&gt;洛谷题单上看到的，看起来很不错，能帮助我解决一些概率和期望方面的弱点，所以还是做做看。每一题的题解还是写一个单独的 blog，然后下面只是用来看整体完成度的。每个小部分之后会有一个简短的总结&lt;/p&gt;
 &lt;h3 id=&#34;part-65-概率与期望&#34;&gt;Part 6.5 概率与期望&lt;/h3&gt;
 &lt;blockquote&gt;
-&lt;p&gt;概率和期望是紧密相连的，OI 中往往会出现和概率期望相关的动态规划问题。&lt;/p&gt;
+&lt;p&gt;概率和期望是紧密相连的，OI 中往往会出现和概率期望相关的动态规划问题。(ICPC 也会有这些题)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://www.luogu.com.cn/problem/P5104&#34;&gt;P5104 红包发红包&lt;/a&gt;&lt;/li&gt;
