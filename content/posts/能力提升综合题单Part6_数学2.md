@@ -10,7 +10,7 @@ title = '能力提升综合题单Part6_数学2'
 
 ### Part 6.5 概率与期望
 
-> 概率和期望是紧密相连的，OI 中往往会出现和概率期望相关的动态规划问题。
+> 概率和期望是紧密相连的，OI 中往往会出现和概率期望相关的动态规划问题。(ICPC 也会有这些题)
 
 - [x] [P5104 红包发红包](https://www.luogu.com.cn/problem/P5104)
 - [ ] [P1850 换教室](https://www.luogu.com.cn/problem/P1850)
