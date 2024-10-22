@@ -22,11 +22,11 @@ params:
       Welcome to my competitive programming blog! Here you'll find tutorials, solutions, and insights on problem-solving techniques.
       Feel free to explore the site and check out my archive for more articles!
 
-  socialIcons: # Optional, if you want to add social icons
-    - name: "Github"
-      url: "https://github.com/kiyuu-o"
-    - name: "LinkedIn"
-      url: "https://www.linkedin.com/in/kevin-miao-cs/"
+  # socialIcons: # Optional, if you want to add social icons
+  #   - name: "Github"
+  #     url: "https://github.com/kiyuu-o"
+  #   - name: "LinkedIn"
+  #     url: "https://www.linkedin.com/in/kevin-miao-cs/"
 
 outputs:
   home:
